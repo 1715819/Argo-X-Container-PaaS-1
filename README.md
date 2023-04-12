@@ -70,6 +70,14 @@
   | DOCKER_USERNAME | Dockerhub 用户名|
   | DOCKER_PASSWORD | Dockerhub 密码 |
   | DOCKER_REPO     | Dockerhub 库名 |
+  
+  
+  * docker版本对应说明
+
+  | 仓库名 | 备注 |
+  | ------------- | -------------- |
+  |koyebvxrayargov3|隧道固定，基于nodes，有前端|
+
 
 
 ## Argo Token 的获取
@@ -102,10 +110,3 @@
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/92626977/214807633-18b1a1fe-a3b7-4f9b-99bd-0ef56e3a259c.png">
 
-## 鸣谢下列作者的文章和项目:
-* 前端 JS 在大佬 Nike Jeff 的项目 基础上，为了通用性和扩展功能作修改，https://github.com/hrzyang/glitch-trojan
-* 后端全部原创，如转载须注明来源。
-
-## 免责声明:
-* 本程序仅供学习了解, 非盈利目的，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权, 如转载须注明来源。
-* 使用本程序必循遵守部署免责声明。使用本程序必循遵守部署服务器所在地、所在国家和用户所在国家的法律法规, 程序作者不对使用者任何不当行为负责。
