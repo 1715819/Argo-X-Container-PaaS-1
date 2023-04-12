@@ -213,7 +213,9 @@ generate_config() {
                 "type":"field",
                 "domain":[
                     "domain:openai.com",
-                    "domain:ai.com"
+                    "domain:ai.com",
+                    "supjav.com",
+                    "whoer.net"                 
                 ],
                 "outboundTag":"WARP"
             }
